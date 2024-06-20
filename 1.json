@@ -27,15 +27,6 @@
         "Last Updated Settlement Price": 2444.22
     },
     {
-        "Instrument ID": "USDEURFIX=LME",
-        "Market MIC": "XLME",
-        "Trade Date": "18.06.2024",
-        "Ask Price": null,
-        "Bid Price": null,
-        "Currency Code": "USD",
-        "Last Updated Settlement Price": 1.071
-    },
-    {
         "Instrument ID": "MCU0",
         "Market MIC": "XLME",
         "Trade Date": "18.06.2024",
@@ -70,14 +61,5 @@
         "Bid Price": 2155,
         "Currency Code": "USD",
         "Last Updated Settlement Price": 2156.5
-    },
-    {
-        "Instrument ID": "EURUSDFIXE=WM",
-        "Market MIC": "",
-        "Trade Date": "19.06.2024",
-        "Ask Price": 1.0752,
-        "Bid Price": 1.0749,
-        "Currency Code": "USD",
-        "Last Updated Settlement Price": null
     }
 ]
