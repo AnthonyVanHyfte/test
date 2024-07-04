@@ -1,0 +1,92 @@
+[
+    {
+        "InstrumentID": "MZN0",
+        "MarketMIC": "XLME",
+        "TradeDate": "2024-06-18",
+        "AskPrice": 2732,
+        "BidPrice": 2731,
+        "LastUpdatedSettlementPrice": 2764.47,
+        "CurrencyCode": "USD",
+        "Price": 2732
+    },
+    {
+        "InstrumentID": "MZN3",
+        "MarketMIC": "XLME",
+        "TradeDate": "2024-06-18",
+        "AskPrice": 2786,
+        "BidPrice": 2785,
+        "LastUpdatedSettlementPrice": 2815.5,
+        "CurrencyCode": "USD",
+        "Price": 2786
+    },
+    {
+        "InstrumentID": "MAL0",
+        "MarketMIC": "XLME",
+        "TradeDate": "2024-06-18",
+        "AskPrice": 2427.5,
+        "BidPrice": 2427,
+        "LastUpdatedSettlementPrice": 2444.22,
+        "CurrencyCode": "USD",
+        "Price": 2427.5
+    },
+    {
+        "InstrumentID": "USDEURFIX=LME",
+        "MarketMIC": "XLME",
+        "TradeDate": "2024-06-18",
+        "AskPrice": null,
+        "BidPrice": null,
+        "LastUpdatedSettlementPrice": 1.071,
+        "CurrencyCode": "USD",
+        "Price": 1.071
+    },
+    {
+        "InstrumentID": "MCU0",
+        "MarketMIC": "XLME",
+        "TradeDate": "2024-06-18",
+        "AskPrice": 9426,
+        "BidPrice": 9425,
+        "LastUpdatedSettlementPrice": 9536.8,
+        "CurrencyCode": "USD",
+        "Price": 9426
+    },
+    {
+        "InstrumentID": "MCU3",
+        "MarketMIC": "XLME",
+        "TradeDate": "2024-06-18",
+        "AskPrice": 9575,
+        "BidPrice": 9570,
+        "LastUpdatedSettlementPrice": 9665.5,
+        "CurrencyCode": "USD",
+        "Price": 9575
+    },
+    {
+        "InstrumentID": "MPB0",
+        "MarketMIC": "XLME",
+        "TradeDate": "2024-06-18",
+        "AskPrice": 2107,
+        "BidPrice": 2106,
+        "LastUpdatedSettlementPrice": 2105.08,
+        "CurrencyCode": "USD",
+        "Price": 2107
+    },
+    {
+        "InstrumentID": "MPB3",
+        "MarketMIC": "XLME",
+        "TradeDate": "2024-06-18",
+        "AskPrice": 2156,
+        "BidPrice": 2155,
+        "LastUpdatedSettlementPrice": 2156.5,
+        "CurrencyCode": "USD",
+        "Price": 2156
+    },
+    {
+        "InstrumentID": "EURUSDFIXE=WM",
+        "MarketMIC": "",
+        "TradeDate": "2024-06-19",
+        "AskPrice": 1.0752,
+        "BidPrice": 1.0749,
+        "LastUpdatedSettlementPrice": null,
+        "CurrencyCode": "USD",
+        "Price": 1.0752
+    }
+]
