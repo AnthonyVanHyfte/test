@@ -61,5 +61,14 @@
         "Bid Price": 2155,
         "Currency Code": "USD",
         "Last Updated Settlement Price": 2156.5
+    },
+    {
+        "InstrumentID": "EURUSDFIXE=WM",
+        "MarketMIC": "",
+        "TradeDate": "2024-06-19",
+        "AskPrice": 1.0752,
+        "BidPrice": 1.0749,
+        "CurrencyCode": "USD",
+        "LastUpdatedSettlementPrice": null
     }
 ]
